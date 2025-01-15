@@ -1,7 +1,7 @@
 #!/bin/bash
 # shellcheck disable=SC2034
 # shellcheck disable=SC2155
-GH_PROXY='https://ghgo.xyz/'
+GH_PROXY=''
 
 TEMP_CONFIG='./resource/config.yaml'
 TEMP_CLASH_RAR='./resource/clash-linux-amd64-2023.08.17.gz'
