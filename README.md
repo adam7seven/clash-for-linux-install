@@ -23,7 +23,7 @@
 > [常见问题](#常见问题)
 
 ```bash
-git clone https://ghgo.xyz/https://github.com/nelvko/clash-for-linux-install.git && cd clash-for-linux-install && sudo bash -c '. install.sh; exec bash'
+git clone https://github.com/adam7seven/clash-for-linux-install.git && cd clash-for-linux-install && sudo bash -c '. install.sh; exec bash'
 ```
 
 - 上述脚本已使用[代理加速下载](https://ghproxy.link/)，如克隆失败请自行更换。
